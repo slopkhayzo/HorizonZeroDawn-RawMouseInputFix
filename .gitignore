@@ -1,0 +1,54 @@
+# Research material (reverse-engineering notes, tools, Ghidra project) — kept local
+research/
+
+# Build output and release packages
+build/
+dist/
+out/
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.dll
+*.asi
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.obj
+*.iobj
+*.ipdb
+*.idb
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake-build-*/
+CMakeUserPresets.json
+
+# Visual Studio / IDEs
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+.vscode/
+.idea/
+
+# Runtime logs / local config produced by the mod
+*.log
+HZDRawMouse_events.csv
+HZDRawMouse.local.ini
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store

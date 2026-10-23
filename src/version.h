@@ -1,0 +1,6 @@
+#pragma once
+
+#define HZDRM_VERSION_MAJOR 1
+#define HZDRM_VERSION_MINOR 0
+#define HZDRM_VERSION_PATCH 1
+#define HZDRM_VERSION_STRING "1.0.1"
