@@ -1,5 +1,13 @@
 # HZDRawMouse — raw mouse camera for Horizon Zero Dawn (PC)
 
+> [!WARNING]
+> This patch has been pretty much entirely been generated using AI; 
+> I won't and will never claim to have enough knowledge or expertise to do this 
+> kind of reverse-engineering by myself; I've tested a couple hours of gameplay and so far spotted 
+> no major issues (on my machine ofc, if you have issues feel free to open an Issue)
+> this patch currently probably only works for the latest Steam version of the game.
+> If you're interested and want more (human generated) info, I have a blog post [here](https://slop-blog.enkhayzomachines.net/posts/horizon-zero-dawn-raw-input-mouse-fix) :)
+
 An ASI plugin that makes the third-person camera in **Horizon Zero Dawn Complete Edition** follow
 your mouse 1:1, every rendered frame, at any frame rate.
 
